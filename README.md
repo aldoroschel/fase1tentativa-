@@ -45,14 +45,23 @@ Digite se o módulo de navegação está ativo (1) ou não(0): 1
 ==================================================
 
 Temperatura interna OK
+
 Temperatura externa OK
+
 Pressão dos tanques OK
+
 Nível de Energia OK
+
 Estrutura OK
+
 Módulo de propulsão OK
+
 Módulo de vida OK
+
 Módulo de comunicação OK
+
 Módulo de navegação OK
+
 
 ==================================================
 
