@@ -21,14 +21,23 @@ Este trabalho apresenta uma análise detalhada dos procedimentos e verificaçõe
 
 
 Digite a temperatura interna em °C: 20
+
 Digite a temperatura externa em °C: 20
+
 Digite a pressão do tanque em psi: 3100
+
 Digite o nível de energia em %: 85
+
 Digite se a estrutura está íntegra (1) ou não(0): 1
+
 Digite se o módulo de propulsão está ativo (1) ou não(0): 1
+
 Digite se o módulo de vida está ativo (1) ou não(0): 1
+
 Digite se o módulo de comunicação está ativo (1) ou não(0): 1
+
 Digite se o módulo de navegação está ativo (1) ou não(0): 1
+
 ==================================================
 
                LEITURA DA VARIÁVEIS               
